@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ThermalConductivity\bin\Release\ThermalConductivity.exe.config
+C:\Users\User\source\repos\ThermalConductivity\bin\Release\ThermalConductivity.exe
+C:\Users\User\source\repos\ThermalConductivity\bin\Release\ThermalConductivity.pdb
+C:\Users\User\source\repos\ThermalConductivity\obj\Release\ThermalConductivity.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ThermalConductivity\obj\Release\ThermalConductivity.exe
+C:\Users\User\source\repos\ThermalConductivity\obj\Release\ThermalConductivity.pdb

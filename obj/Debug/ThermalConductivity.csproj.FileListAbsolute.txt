@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ThermalConductivity\bin\Debug\ThermalConductivity.exe.config
+C:\Users\User\source\repos\ThermalConductivity\bin\Debug\ThermalConductivity.exe
+C:\Users\User\source\repos\ThermalConductivity\bin\Debug\ThermalConductivity.pdb
+C:\Users\User\source\repos\ThermalConductivity\obj\Debug\ThermalConductivity.exe
+C:\Users\User\source\repos\ThermalConductivity\obj\Debug\ThermalConductivity.pdb
+C:\Users\User\source\repos\ThermalConductivity\obj\Debug\ThermalConductivity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThermalConductivity\obj\Debug\ThermalConductivity.csprojAssemblyReference.cache
